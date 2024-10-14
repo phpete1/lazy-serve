@@ -9,7 +9,7 @@ So I made a bash script that does this for me.
 ## How to use
 Run this code to add it to your laravel project:
 ```
-git clone https://github.com/phpete1/lazy-serve.git ./
+wget https://raw.githubusercontent.com/phpete1/lazy-serve/refs/heads/master/serve.sh
 chmod +x serve.sh # makes the script executable
 ```
 
@@ -39,3 +39,4 @@ The `_serve.serve.pids` stores the PIDs. We need this so the script know what PI
 If this script does something bad to your project, I take no responsability. Back up your work before using.
 
 # Happy coding!
+> "...For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.” 1 Samuel 16:7
